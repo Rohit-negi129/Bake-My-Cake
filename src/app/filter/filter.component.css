@@ -1,0 +1,17 @@
+.btn {
+    background-color: #27646e;
+    color: rgb(230, 238, 161);
+    
+    
+}
+
+mat-label {
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#space {
+     
+    margin-top: 35px;
+    margin-left: 900px;
+}

@@ -1,0 +1,261 @@
+{
+  "cakes": [
+    {
+      "id": "1",
+      "name": "Berries Summer Cupcakes",
+      "category": "cakes",
+      "type": "Birthdays & Parties",
+      "image": "Berries Summer Cupcakes",
+      "rating": 4.2,
+      "price": 249,
+      "reviews": 467,
+      "description": "So, today I bring you my Summer Berry Cupcakes! These cupcakes are moist, fluffy, and infused with vanilla. They're stuffed with three types of summer berries - strawberries, raspberries, and blueberries."
+    },
+    {
+      "id": "2",
+      "name": "Brownies Different Flavor",
+      "category": "brownies",
+      "type": "Party",
+      "image": "Brownies Different Flavor",
+      "rating": 4.8,
+      "price": 349,
+      "reviews": 151,
+      "description": "A chocolate brownie, or simply a brownie, is a chocolate baked confection. Brownies come in a variety of forms and may be either fudgy or cakey, depending on their density. Brownies often, but not always, have a glossy skin on their upper crust."
+    },
+    {
+      "id": "3",
+      "name": "Butter Cookies",
+      "category": "cookies",
+      "type": "Party",
+      "image": "Butter Cookies",
+      "rating": 3.8,
+      "price": 149,
+      "reviews": 456,
+      "description": "These holiday staples are delicious any time of the year and the best part is the dough can be made months ahead and baked of for an amazing on demand treat! "
+    },
+    {
+      "id": "4",
+      "name": "Cherry Jelly Cheesecake",
+      "category": "cakes",
+      "type": "Special",
+      "image": "Cherry Jelly Cheesecake",
+      "rating": 5,
+      "price": 999,
+      "reviews": 846,
+      "description": "Cherry Jelly Cheesecake are small, tasty snack cakes that are favored for their portability and portion-control. They are batter cakes baked in a cup-shaped foil or temperature resistant paper. A cupcake can be prepared from a variety of formulations and can be decorated with cream and icings."
+    },
+    {
+      "id": "5",
+      "name": "Chocolate Blueberries Cake",
+      "category": "cakes",
+      "type": "Party",
+      "image": "Chocolate Blueberries Cake",
+      "rating": 4.5,
+      "price": 749,
+      "reviews": 467,
+      "description": "Chocolate Blueberries Cake are small, tasty snack cakes that are favored for their portability and portion-control. They are batter cakes baked in a cup-shaped foil or temperature resistant paper. A cupcake can be prepared from a variety of formulations and can be decorated with cream and icings."
+    },
+    {
+      "id": "6",
+      "name": "Chocolate Bonbons",
+      "category": "cookies",
+      "type": "Party",
+      "image": "Chocolate Bonbons",
+      "rating": 4,
+      "price": 399,
+      "reviews": 889,
+      "description": "Chocolate Bonbons, also known as Danish biscuits, are cookies originating in Denmark consisting of butter, flour, and sugar. They are similar to shortbread cookies. The butter cookie is often categorized as a crisp cookie due to its texture, caused in part by the quantity of butter and sugar."
+    },
+    {
+      "id": "7",
+      "name": "Chocolate Cookies",
+      "category": "cookies",
+      "type": "Anniversary",
+      "image": "Chocolate Cookies",
+      "rating": 4.8,
+      "price": 399,
+      "reviews": 921,
+      "description": "Chocolate Cookies, also known as Danish biscuits, are cookies originating in Denmark consisting of butter, flour, and sugar. They are similar to shortbread cookies. The butter cookie is often categorized as a crisp cookie due to its texture, caused in part by the quantity of butter and sugar."
+    },
+    {
+      "id": "8",
+      "name": "Chocolate Cupcake",
+      "category": "cakes",
+      "type": "Party",
+      "image": "Chocolate Cupcake",
+      "rating": 3.8,
+      "price": 199,
+      "reviews": 562,
+      "description": "Chocolate Cupcake are small, tasty snack cakes that are favored for their portability and portion-control. They are batter cakes baked in a cup-shaped foil or temperature resistant paper. A cupcake can be prepared from a variety of formulations and can be decorated with cream and icings."
+    },
+    {
+      "id": "9",
+      "name": "Classic Cheesecake",
+      "category": "cakes",
+      "type": "Special",
+      "image": "Classic Cheesecake",
+      "rating": 5,
+      "price": 999,
+      "reviews": 785,
+      "description": "Classic Cheesecake are small, tasty snack cakes that are favored for their portability and portion-control. They are batter cakes baked in a cup-shaped foil or temperature resistant paper. A cupcake can be prepared from a variety of formulations and can be decorated with cream and icings."
+    },
+    {
+      "id": "10",
+      "name": "Cookies Cream Cake",
+      "category": "cakes",
+      "type": "Party",
+      "image": "Cookies Cream Cake",
+      "rating": 4.2,
+      "price": 699,
+      "reviews": 863,
+      "description": "Cookies Cream Cake are small, tasty snack cakes that are favored for their portability and portion-control. They are batter cakes baked in a cup-shaped foil or temperature resistant paper. A cupcake can be prepared from a variety of formulations and can be decorated with cream and icings."
+    },
+    {
+      "id": "11",
+      "name": "Easter Cupcakes",
+      "category": "cakes",
+      "type": "Birthday",
+      "image": "Easter Cupcakes",
+      "rating": 4,
+      "price": 399,
+      "reviews": 565,
+      "description": "Easter Cupcakes are small, tasty snack cakes that are favored for their portability and portion-control. They are batter cakes baked in a cup-shaped foil or temperature resistant paper. A cupcake can be prepared from a variety of formulations and can be decorated with cream and icings."
+    },
+    {
+      "id": "12",
+      "name": "Fruit Cake",
+      "category": "cakes",
+      "type": "Party",
+      "image": "Fruit Cake",
+      "rating": 5,
+      "price": 799,
+      "reviews": 1489,
+      "description": "Fruit Cake are small, tasty snack cakes that are favored for their portability and portion-control. They are batter cakes baked in a cup-shaped foil or temperature resistant paper. A cupcake can be prepared from a variety of formulations and can be decorated with cream and icings."
+    },
+    {
+      "id": "13",
+      "name": "Isometric chocolate brownies",
+      "category": "brownies",
+      "type": "Anniversary",
+      "image": "Isometric chocolate brownies",
+      "rating": 4.5,
+      "price": 99,
+      "reviews": 2565,
+      "description": "Isometric chocolate brownies, or simply a brownie, is a chocolate baked confection. Brownies come in a variety of forms and may be either fudgy or cakey, depending on their density. Brownies often, but not always, have a glossy skin on their upper crust."
+    },
+    {
+      "id": "14",
+      "name": "Monster Theme Cake",
+      "category": "cakes",
+      "type": "Special",
+      "image": "Monster Theme Cake",
+      "rating": 4.4,
+      "price": 1199,
+      "reviews": 456,
+      "description": "Monster Theme Cake are small, tasty snack cakes that are favored for their portability and portion-control. They are batter cakes baked in a cup-shaped foil or temperature resistant paper. A cupcake can be prepared from a variety of formulations and can be decorated with cream and icings."
+    },
+    {
+      "id": "15",
+      "name": "Muffin Devil Horns",
+      "category": "brownies",
+      "type": "Party",
+      "image": "Muffin Devil Horns",
+      "rating": 3,
+      "price": 299,
+      "reviews": 4852,
+      "description": "A chocolate brownie, or simply a brownie, is a chocolate baked confection. Brownies come in a variety of forms and may be either fudgy or cakey, depending on their density. Brownies often, but not always, have a glossy skin on their upper crust."
+    },
+    {
+      "id": "16",
+      "name": "Muffin Ghost",
+      "category": "brownies",
+      "type": "Party",
+      "image": "Muffin Ghost",
+      "rating": 3.4,
+      "price": 249,
+      "reviews": 1587,
+      "description": "A Muffin Ghost, or simply a brownie, is a chocolate baked confection. Brownies come in a variety of forms and may be either fudgy or cakey, depending on their density. Brownies often, but not always, have a glossy skin on their upper crust."
+    },
+    {
+      "id": "17",
+      "name": "Pumpkin Spice Cupcakes",
+      "category": "cakes",
+      "type": "Anniversary",
+      "image": "Pumpkin Spice Cupcakes",
+      "rating": 4,
+      "price": 299,
+      "reviews": 1435,
+      "description": "Pumpkin Spice Cupcakes are small, tasty snack cakes that are favored for their portability and portion-control. They are batter cakes baked in a cup-shaped foil or temperature resistant paper. A cupcake can be prepared from a variety of formulations and can be decorated with cream and icings."
+    }
+  ],
+  "requests": [
+    {
+      "name": "janvi",
+      "phone": "461649616",
+      "quantity": 1,
+      "deliveryDate": "8/31/2023",
+      "message": "ctygvjhbiubi",
+      "address": "jbibhjkbighiknkl",
+      "cakeName": "Cherry Jelly Cheesecake",
+      "price": 999,
+      "total": 999,
+      "id": 1
+    },
+    {
+      "name": "rohit",
+      "phone": "14196156156",
+      "quantity": 2,
+      "deliveryDate": "9/14/2023",
+      "address": "Civil lines ,Delhi",
+      "cakeName": "Chocolate Blueberries Cake",
+      "price": 749,
+      "total": 1498,
+      "id": 2
+    },
+    {
+      "name": "Sarthak",
+      "phone": "958468752",
+      "quantity": 1,
+      "deliveryDate": "9/2/2023",
+      "address": "sarojni nagar ,Delhi",
+      "cakeName": "Easter Cupcakes",
+      "price": 399,
+      "total": 399,
+      "id": 3
+    },
+    {
+      "name": "Rohit",
+      "phone": "8928298265",
+      "quantity": 1,
+      "deliveryDate": "9/4/2023",
+      "address": "Modal town ,Delhi",
+      "cakeName": "Brownies Different Flavor",
+      "price": 349,
+      "total": 349,
+      "id": 4
+    },
+    {
+      "name": "Rahul",
+      "phone": "9658742358",
+      "quantity": 5,
+      "deliveryDate": "9/4/2023",
+      "address": "Shalimar Bagh ,Delhi",
+      "cakeName": "Chocolate Cupcake",
+      "price": 199,
+      "total": 995,
+      "id": 5
+    },
+    {
+      "name": "Rakesh pandit",
+      "phone": "9586756248",
+      "quantity": 1,
+      "deliveryDate": "9/6/2023",
+      "message": "Happy Teachers Day",
+      "address": "South Ex",
+      "cakeName": "Brownies Different Flavor",
+      "price": 349,
+      "total": 349,
+      "id": 6
+    }
+  ]
+}

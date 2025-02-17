@@ -1,0 +1,16 @@
+<mat-card class="cake-card">
+    <img mat-card-image src="../../assets/images/{{cakee.image}}.jpg" id="img">
+    <mat-card-header>
+      <mat-card-title>{{cakee.name}}</mat-card-title>
+    </mat-card-header>
+    <mat-card-content >
+      
+      <mat-card-subtitle class="content">{{cakee.price | currency:'₹ '}}/-</mat-card-subtitle>
+      <mat-card-subtitle class="content">{{cakee.rating  }}  <img src="../../assets/images/rating.jpg"></mat-card-subtitle>
+      <mat-card-subtitle class="content">{{cakee.reviews }} Reviews</mat-card-subtitle>
+    </mat-card-content>
+    <mat-card-actions>
+      <mat-icon routerLink="cake-cart/{{cakee.id}}" class="shoppingcart" matTooltip="add to cart" color="primary">shopping_cart</mat-icon>
+    </mat-card-actions>  
+  </mat-card>
+  

@@ -1,0 +1,7 @@
+<div>
+    <app-search (searchTextChanged)="searchCake($event)"></app-search>
+
+    <app-filter (filterTextChanged)="filterCake($event)"></app-filter>
+</div>
+
+<app-cake-card *ngFor="let cakee of cakes" [cakee]="cakee"></app-cake-card>

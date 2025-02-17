@@ -1,0 +1,28 @@
+div{
+    background-color: rgb(0, 0, 0);
+    color: whitesmoke;
+    display: flex;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    height: 50px;
+
+}
+img{
+    height: 25px;
+    width: 25px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.footercenter{
+    padding-left: 700px;
+}
+.footercenter1{
+    padding-left: 580px;
+}
+h4{
+    padding-top: 10px;
+}

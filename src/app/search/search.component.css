@@ -1,0 +1,30 @@
+
+div {
+    float: right;
+    padding-top: 27px;
+    padding-left: 30px;
+    display: flex;
+    
+}
+
+button {
+    
+    cursor: pointer;
+    height: 55px;
+    width: 55px;
+    background-color: rgba(242, 251, 254, 0.496);
+    border:brown;
+    ;
+    
+}
+mat-icon{
+    margin: -5px;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 40px;
+}
+mat-form-field{
+    padding-right: 6px;
+    color: aliceblue;
+    
+}

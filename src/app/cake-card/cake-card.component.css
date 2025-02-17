@@ -1,0 +1,21 @@
+.cake-card{
+    width: 310px;
+    height: max-content;
+    margin: 85px;
+    display: inline-flex;
+    background-color: #fabf52b5;
+    color:rgb(89, 2, 2);
+    border-radius: 30px;
+    box-shadow: 2px 2px 2px 2px;
+}
+.shoppingcart{
+    display: inline;
+    margin-right: 100px;
+    color:rgb(145, 52, 237);
+}
+#img{
+    height: 270px;
+ }
+.content{
+    color: black;
+}

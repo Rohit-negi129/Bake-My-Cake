@@ -1,0 +1,41 @@
+div {
+    text-align: center;
+    margin: 0px 600px;
+    /* margin-top: 150px; */
+    border: 5px solid chocolate;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #FCC8D1;
+    position: relative;
+    top: 30%;
+}
+
+h4 {
+    color: #350715;
+    font-weight: bold;
+}
+
+input
+{
+    border-radius: 20px;
+    height: 25px;
+}
+
+button {
+    background-color: #47292e;
+    color: #d246a1;
+    font-weight: bold;
+    height: 30px;
+    margin-left: 5px;
+}
+
+button:hover {
+    background-color: #D14D72;
+    color: #FCC8D1;
+    cursor: pointer;
+}
+
+section {
+    background-color: rgb(218, 118, 48);
+    height: 78%;
+}

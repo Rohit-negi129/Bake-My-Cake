@@ -1,0 +1,38 @@
+h1 {
+    padding: 30px 10px 10px 50px;
+    font-size: 60px;
+    font-weight:bold;
+    color: rgba(243, 181, 181, 0.995);
+    letter-spacing: 1px;
+    font-family:cursive;
+}
+
+div {
+    background-color:rgba(36, 112, 159, 0.973);
+    display: flex;
+    
+}
+
+#home-icon {
+    margin-left: 700px;
+}
+
+mat-icon {
+    margin-top: 19px;
+    cursor: pointer;
+    color: #fef4f2;
+}
+
+.icon {
+    font-size: 30px;
+    padding: 10px;
+}
+
+p {
+    padding-top: 50px;
+    color: #FEF2F4;
+}
+
+#spacebetween {
+    margin-right: 20px;
+}

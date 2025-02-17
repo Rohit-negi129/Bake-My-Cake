@@ -1,0 +1,8 @@
+<div id="space">
+    <mat-label>Filter by Category: </mat-label>
+    <mat-button-toggle-group [(ngModel)]="filterText">
+        <mat-button-toggle value="cakes" class="btn" (click)="filter()">Cakes</mat-button-toggle>
+        <mat-button-toggle value="cookies" class="btn" (click)="filter()">Cookies</mat-button-toggle>
+        <mat-button-toggle value="brownies" class="btn" (click)="filter()">Brownies</mat-button-toggle>
+    </mat-button-toggle-group>
+</div>
